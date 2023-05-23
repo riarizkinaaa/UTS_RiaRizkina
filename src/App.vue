@@ -19,23 +19,18 @@
             <router-link to="/"  class="nav-link active" >Home</router-link>
         </li>
         <li class="nav-item text-center mx-2 mx-lg-1">
-            <router-link to="/jadwal/pertandingan" class="nav-link active" >Jadwal</router-link>
+            <router-link to="/jadwal/pertandingan" class="nav-link active" >for excample</router-link>
         </li>
         
         <li class="nav-item text-center mx-2 mx-lg-1">
-            <router-link to="/pertandingan" class="nav-link active" >daftar pertandingan</router-link>
+            <router-link to="/pertandingan" class="nav-link active" >Pertandingan</router-link>
         </li>
         
       </ul>
       <!-- Left links -->
 
       <!-- Search form -->
-      <form class="d-flex input-group w-auto ms-lg-3 my-3 my-lg-0">
-        <input type="search" class="form-control" placeholder="Search" aria-label="Search" />
-        <button class="btn btn-outline-white" type="button" data-mdb-ripple-color="dark">
-          Search
-        </button>
-      </form>
+      
     </div>
     <!-- Collapsible wrapper -->
   </div>

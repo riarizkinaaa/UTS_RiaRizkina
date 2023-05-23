@@ -54,7 +54,7 @@ export default{
             <h1>Bayern Munchen</h1>
         </div>
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-3">
             <div class="card p-3 mb-2">
                 <div class="mt-5">
                     <h2 class="heading fw-bold">0</h2>
@@ -64,60 +64,60 @@ export default{
                 </div>
             </div>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-3">
             <div class="card p-3 mb-2">
                 <div class="mt-5">
-                    <h2 class="heading fw-bold">0</h2>
+                    <h2 class="heading fw-bold">12</h2>
                     <div class="mt-5">
                         <div class="mt-3"> <h6 class="text1">Win</h6> </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-3">
             <div class="card p-3 mb-2">
                 <div class="mt-5">
-                    <h2 class="heading fw-bold">0</h2>
+                    <h2 class="heading fw-bold">7</h2>
                     <div class="mt-5">
                         <div class="mt-3"> <h6 class="text1">Loss</h6> </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-3">
             <div class="card p-3 mb-2">
                 <div class="mt-5">
-                    <h2 class="heading fw-bold">0</h2>
+                    <h2 class="heading fw-bold">9</h2>
                     <div class="mt-5">
                         <div class="mt-3"> <h6 class="text1">Goals</h6> </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-3">
             <div class="card p-3 mb-2">
                 <div class="mt-5">
-                    <h2 class="heading fw-bold">0</h2>
+                    <h2 class="heading fw-bold">1</h2>
                     <div class="mt-5">
                         <div class="mt-3"> <h6 class="text1">Draw</h6> </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-3">
             <div class="card p-3 mb-2  bg-warning">
                 <div class="mt-5">
-                    <h2 class="heading fw-bold">0</h2>
+                    <h2 class="heading fw-bold">5</h2>
                     <div class="mt-5">
                         <div class="mt-3"> <h6 class="text1">Yellow Card</h6> </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-2">
+        <div class="col-md-3">
             <div class="card p-3 mb-2  bg-danger">
                 <div class="mt-5">
-                    <h2 class="heading fw-bold">0</h2>
+                    <h2 class="heading fw-bold">4</h2>
                     <div class="mt-5">
                         <div class="mt-3"> <h6 class="text1">Red Card</h6> </div>
                     </div>
@@ -126,6 +126,7 @@ export default{
         </div>
         
     </div>
+    
 </div>
 
 </template>
